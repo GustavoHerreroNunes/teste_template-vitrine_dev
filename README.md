@@ -1,16 +1,16 @@
-# Nome do meu projeto
+# Teste Template - Vitrine.Dev
 
 Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Teste Template - Vitrine.Dev**
+| :label: Tecnologias | markdown, html, css
+| :rocket: URL         | https://github.com/GustavoHerreroNunes
+| :fire: Desafio     | https://github.com/GustavoHerreroNunes
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/GustavoHerreroNunes/to-infinity-and-beyond/blob/main/src/img/Banner.png#vitrinedev)
 
 ## Detalhes do projeto
 
